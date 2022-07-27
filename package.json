@@ -1,6 +1,6 @@
 {
   "name": "export-tables",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "纯前端导出一个表格",
   "main": "src/index.js",
   "scripts": {
@@ -25,5 +25,9 @@
   },
   "dependencies": {
     "webpack-test-719": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsm19971222/export-table.git"
   }
 }
